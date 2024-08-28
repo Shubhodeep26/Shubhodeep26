@@ -18,5 +18,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" 
-target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/xwnE21FE1HacoSRc7" alt="html5" width="40" height="40"/> </a>
+target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?client=ms-android-samsung-ga-rev1&sca_esv=cb00e98615192aee&sca_upv=1&sxsrf=ADLYWIIMS-tHP4xUcruCkGTsft64CYQUlQ:1724835198868&q=CSS+logo+transparent&uds=ADvngMh0WQE5eqx95bb-P17wD8yv3bpgaE6a5pCNV0BdavC1jX4TwgT_5Yn0ECBnO_M1pXi-P20oHXLyGmD7-g9QIFLwMZIshDSGGaaw-ebzEB33wePVRA8H5taKcnZQz43BBjYNNouQ&sa=X&ictx=0&stq=1&lei=fuXOZsTRNPeMseMP4aecuQo#imgrc=TglfJc9ewmQdFM&imgdii=_KeAW8fPw6d5lM" alt="Css" width="40" height="40"/> </a>
  </p>
